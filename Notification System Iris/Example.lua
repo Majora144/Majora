@@ -1,4 +1,4 @@
-local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/Majora144/Majora/main/Notification%20System%20Iris/source.lua"))()
+local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/Majora144/Majora/main/Notification%20System%20Iris/main.lua"))()
 
 Notification.Notify("Yeeet", "yeet", "rbxasset://textures/ui/GuiImagePlaceholder.png", {
     Duration = 2,       
