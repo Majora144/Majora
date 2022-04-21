@@ -1,4 +1,4 @@
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Majora144/Ui-libs-back-ups/main/Uwuware%20UI", true))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Majora144/Majora/main/Ui%20Library/main.lua", true))()
 
 local Window = Library:CreateWindow("thing")
 
